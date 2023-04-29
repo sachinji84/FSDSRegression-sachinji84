@@ -30,3 +30,16 @@ if __name__=='__main__':
 
 # ====================================================================================
 
+
+# PYTHON command to execute on pwsh
+# PS D:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84> & d:/Mytech/IDE_workspace/sachinji84git/iNeuronGit/FSDSRegression-sachinji84/.venv/Scripts/Activate.ps1
+# (.venv) PS D:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84> python D:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\src\pipeline\training_pipeline.py
+# {'LinearRegression': 0.9302873217953068, 'Lasso': 0.9347652476618369, 'Ridge': 0.9321366737740069, 'Elasticnet': 0.8614823172075561}
+
+# ====================================================================================
+
+# Best Model Found , Model Name : Lasso , R2 Score : 0.9347652476618369
+
+# ====================================================================================
+
+# (.venv) PS D:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84> 
