@@ -1,0 +1,449 @@
+2023-05-13 09:47:38.799 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-05-13 09:47:38.800 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-05-13 09:47:38.816 [info] Test server listening.
+2023-05-13 09:47:38.844 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:40.894 [info] > .\.venv\Scripts\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:47:41.031 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-13 09:47:41.031 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-13 09:47:41.031 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-13 09:47:41.107 [error] [Error: Command failed: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe -I c:\Users\DELL\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py c:\Users\DELL\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1112:16)
+	at Socket.<anonymous> (node:internal/child_process:470:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts\\python.exe -I c:\\Users\\DELL\\.vscode\\extensions\\ms-python.python-2023.8.0\\pythonFiles\\get_output_via_markers.py c:\\Users\\DELL\\.vscode\\extensions\\ms-python.python-2023.8.0\\pythonFiles\\interpreterInfo.py'
+}
+2023-05-13 09:47:41.109 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:41.109 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:45.138 [info] > .\.venv\Scripts\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:47:45.170 [error] [Error: Command failed: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe -I c:\Users\DELL\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py c:\Users\DELL\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1112:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:304:5)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts\\python.exe -I c:\\Users\\DELL\\.vscode\\extensions\\ms-python.python-2023.8.0\\pythonFiles\\get_output_via_markers.py c:\\Users\\DELL\\.vscode\\extensions\\ms-python.python-2023.8.0\\pythonFiles\\interpreterInfo.py'
+}
+2023-05-13 09:47:45.364 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:45.835 [info] Starting Pylance language server.
+2023-05-13 09:47:45.845 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:45.847 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:47.872 [info] > .\.venv\Scripts\python.exe -c "import sys;print(sys.executable)"
+2023-05-13 09:47:47.962 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:47:47.963 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:17.204 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:17.211 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:17.227 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:18.284 [info] > conda info --json
+2023-05-13 09:49:18.468 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:18.468 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:20.498 [info] > ~\AppData\Local\Programs\Python\Python310\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:49:21.581 [info] > ~\.anaconda_backup\Scripts\conda.exe info --json
+2023-05-13 09:49:21.583 [info] > ~\.conda\Scripts\conda.exe info --json
+2023-05-13 09:49:21.585 [info] > ~\.condarc\Scripts\conda.exe info --json
+2023-05-13 09:49:21.595 [info] > ~\anaconda3\Scripts\conda.exe info --json
+2023-05-13 09:49:28.664 [info] > ~\anaconda3\condabin\conda.bat info --json
+2023-05-13 09:49:34.658 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:49:37.581 [info] > ~\anaconda3\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:49:39.620 [info] > ~\anaconda3\envs\condaEnv1GP\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:49:41.729 [info] > ~\anaconda3\envs\condaEnv2Pyspark\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:49:43.750 [info] > ~\anaconda3\envs\condaEnv3JNB\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:49:45.981 [warning] Identifier for virt-virtualenv failed to identify d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe [Error: ENOENT: no such file or directory, scandir 'd:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\.venv\\Scripts'
+}
+2023-05-13 09:50:31.165 [info] Running Env creation script:  [
+  'c:\\Users\\DELL\\anaconda3\\envs\\condaEnv1GP\\python.exe',
+  'c:\\Users\\DELL\\.vscode\\extensions\\ms-python.python-2023.8.0\\pythonFiles\\create_venv.py',
+  '--git-ignore',
+  '--requirements',
+  'd:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\requirements.txt'
+]
+2023-05-13 09:50:31.339 [info] Running: c:\Users\DELL\anaconda3\envs\condaEnv1GP\python.exe -m venv .venv
+
+2023-05-13 09:50:36.677 [info] > .\.venv\Scripts\python.exe -I ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.8.0\pythonFiles\interpreterInfo.py
+2023-05-13 09:50:40.832 [info] Python interpreter path: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe
+2023-05-13 09:50:54.422 [info] CREATED_VENV:d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe
+Creating: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\.gitignore
+
+2023-05-13 09:50:54.423 [info] CREATE_VENV.UPGRADING_PIP
+Running: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe -m pip install --upgrade pip
+
+2023-05-13 09:50:59.076 [info] Requirement already satisfied: pip in d:\mytech\ide_workspace\sachinji84git\ineurongit\fsdsregression-sachinji84\.venv\lib\site-packages (22.3.1)
+
+2023-05-13 09:50:59.234 [info] Collecting pip
+
+2023-05-13 09:50:59.247 [info]   Using cached pip-23.1.2-py3-none-any.whl (2.1 MB)
+
+2023-05-13 09:50:59.312 [info] Installing collected packages: pip
+  Attempting uninstall: pip
+
+2023-05-13 09:50:59.314 [info]     Found existing installation: pip 22.3.1
+
+2023-05-13 09:50:59.868 [info]     Uninstalling pip-22.3.1:
+
+2023-05-13 09:50:59.918 [info]       Successfully uninstalled pip-22.3.1
+
+2023-05-13 09:51:07.879 [info] Successfully installed pip-23.1.2
+
+2023-05-13 09:51:08.092 [info] CREATE_VENV.UPGRADED_PIP
+VENV_INSTALLING_REQUIREMENTS: ['d:\\Mytech\\IDE_workspace\\sachinji84git\\iNeuronGit\\FSDSRegression-sachinji84\\requirements.txt']
+VENV_INSTALLING_REQUIREMENTS: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt
+Running: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe -m pip install -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt
+
+2023-05-13 09:51:12.813 [info] Obtaining file:///D:/Mytech/IDE_workspace/sachinji84git/iNeuronGit/FSDSRegression-sachinji84 (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 7))
+
+2023-05-13 09:51:12.820 [info]   Installing build dependencies: started
+
+2023-05-13 09:51:19.665 [info]   Installing build dependencies: finished with status 'done'
+
+2023-05-13 09:51:19.668 [info]   Checking if build backend supports build_editable: started
+
+2023-05-13 09:51:24.020 [info]   Checking if build backend supports build_editable: finished with status 'done'
+
+2023-05-13 09:51:24.025 [info]   Getting requirements to build editable: started
+
+2023-05-13 09:51:28.382 [info]   Getting requirements to build editable: finished with status 'done'
+
+2023-05-13 09:51:28.388 [info]   Preparing editable metadata (pyproject.toml): started
+
+2023-05-13 09:51:32.824 [info]   Preparing editable metadata (pyproject.toml): finished with status 'done'
+
+2023-05-13 09:51:33.086 [info] Collecting numpy (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 1))
+
+2023-05-13 09:51:36.454 [info]   Downloading numpy-1.24.3-cp310-cp310-win_amd64.whl (14.8 MB)
+
+2023-05-13 09:51:37.801 [info]      ---------------------------------------- 14.8/14.8 MB 9.8 MB/s eta 0:00:00
+
+2023-05-13 09:51:37.969 [info] Collecting pandas (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 2))
+
+2023-05-13 09:51:37.985 [info]   Downloading pandas-2.0.1-cp310-cp310-win_amd64.whl (10.7 MB)
+
+2023-05-13 09:51:38.845 [info]      --------------------------------------- 10.7/10.7 MB 12.3 MB/s eta 0:00:00
+2023-05-13 09:51:38.845 [info] 
+
+2023-05-13 09:51:38.910 [info] Collecting Flask (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:38.924 [info]   Downloading Flask-2.3.2-py3-none-any.whl (96 kB)
+
+2023-05-13 09:51:38.936 [info]      ---------------------------------------- 96.9/96.9 kB ? eta 0:00:00
+
+2023-05-13 09:51:39.028 [info] Collecting scikit-learn (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 4))
+
+2023-05-13 09:51:39.051 [info]   Using cached scikit_learn-1.2.2-cp310-cp310-win_amd64.whl (8.3 MB)
+
+2023-05-13 09:51:39.123 [info] Collecting seaborn (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:39.128 [info]   Using cached seaborn-0.12.2-py3-none-any.whl (293 kB)
+
+2023-05-13 09:51:39.205 [info] Collecting ipykernel (from -r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:39.220 [info]   Downloading ipykernel-6.23.0-py3-none-any.whl (150 kB)
+
+2023-05-13 09:51:39.234 [info]      ---------------------------------------- 150.6/150.6 kB ? eta 0:00:00
+2023-05-13 09:51:39.234 [info] 
+
+2023-05-13 09:51:39.356 [info] Collecting python-dateutil>=2.8.2 (from pandas->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 2))
+
+2023-05-13 09:51:39.360 [info]   Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+
+2023-05-13 09:51:39.439 [info] Collecting pytz>=2020.1 (from pandas->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 2))
+
+2023-05-13 09:51:39.445 [info]   Using cached pytz-2023.3-py2.py3-none-any.whl (502 kB)
+
+2023-05-13 09:51:39.493 [info] Collecting tzdata>=2022.1 (from pandas->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 2))
+
+2023-05-13 09:51:39.500 [info]   Using cached tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+
+2023-05-13 09:51:39.568 [info] Collecting Werkzeug>=2.3.3 (from Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:39.585 [info]   Downloading Werkzeug-2.3.4-py3-none-any.whl (242 kB)
+
+2023-05-13 09:51:39.607 [info]      ------------------------------------- 242.5/242.5 kB 14.5 MB/s eta 0:00:00
+2023-05-13 09:51:39.608 [info] 
+
+2023-05-13 09:51:39.648 [info] Collecting Jinja2>=3.1.2 (from Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:39.653 [info]   Using cached Jinja2-3.1.2-py3-none-any.whl (133 kB)
+
+2023-05-13 09:51:39.688 [info] Collecting itsdangerous>=2.1.2 (from Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:39.692 [info]   Using cached itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+
+2023-05-13 09:51:39.729 [info] Collecting click>=8.1.3 (from Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:39.732 [info]   Using cached click-8.1.3-py3-none-any.whl (96 kB)
+
+2023-05-13 09:51:39.762 [info] Collecting blinker>=1.6.2 (from Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:39.765 [info]   Using cached blinker-1.6.2-py3-none-any.whl (13 kB)
+
+2023-05-13 09:51:39.945 [info] Collecting scipy>=1.3.2 (from scikit-learn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 4))
+
+2023-05-13 09:51:40.051 [info]   Using cached scipy-1.10.1-cp310-cp310-win_amd64.whl (42.5 MB)
+
+2023-05-13 09:51:40.243 [info] Collecting joblib>=1.1.1 (from scikit-learn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 4))
+
+2023-05-13 09:51:40.249 [info]   Using cached joblib-1.2.0-py3-none-any.whl (297 kB)
+
+2023-05-13 09:51:40.283 [info] Collecting threadpoolctl>=2.0.0 (from scikit-learn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 4))
+
+2023-05-13 09:51:40.288 [info]   Using cached threadpoolctl-3.1.0-py3-none-any.whl (14 kB)
+
+2023-05-13 09:51:40.458 [info] Collecting matplotlib!=3.6.1,>=3.1 (from seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:40.493 [info]   Using cached matplotlib-3.7.1-cp310-cp310-win_amd64.whl (7.6 MB)
+
+2023-05-13 09:51:40.578 [info] Collecting comm>=0.1.1 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:40.582 [info]   Using cached comm-0.1.3-py3-none-any.whl (6.6 kB)
+
+2023-05-13 09:51:40.693 [info] Collecting debugpy>=1.6.5 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:40.709 [info]   Using cached debugpy-1.6.7-cp310-cp310-win_amd64.whl (4.8 MB)
+
+2023-05-13 09:51:40.797 [info] Collecting ipython>=7.23.1 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:40.812 [info]   Downloading ipython-8.13.2-py3-none-any.whl (797 kB)
+
+2023-05-13 09:51:40.867 [info]      ------------------------------------- 797.7/797.7 kB 16.8 MB/s eta 0:00:00
+2023-05-13 09:51:40.867 [info] 
+
+2023-05-13 09:51:40.925 [info] Collecting jupyter-client>=6.1.12 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:40.929 [info]   Using cached jupyter_client-8.2.0-py3-none-any.whl (103 kB)
+
+2023-05-13 09:51:40.982 [info] Collecting jupyter-core!=5.0.*,>=4.12 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:40.988 [info]   Using cached jupyter_core-5.3.0-py3-none-any.whl (93 kB)
+
+2023-05-13 09:51:41.018 [info] Collecting matplotlib-inline>=0.1 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.021 [info]   Using cached matplotlib_inline-0.1.6-py3-none-any.whl (9.4 kB)
+
+2023-05-13 09:51:41.060 [info] Collecting nest-asyncio (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.063 [info]   Using cached nest_asyncio-1.5.6-py3-none-any.whl (5.2 kB)
+
+2023-05-13 09:51:41.108 [info] Collecting packaging (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.111 [info]   Using cached packaging-23.1-py3-none-any.whl (48 kB)
+
+2023-05-13 09:51:41.233 [info] Collecting psutil (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.239 [info]   Using cached psutil-5.9.5-cp36-abi3-win_amd64.whl (255 kB)
+
+2023-05-13 09:51:41.410 [info] Collecting pyzmq>=20 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.416 [info]   Using cached pyzmq-25.0.2-cp310-cp310-win_amd64.whl (1.1 MB)
+
+2023-05-13 09:51:41.527 [info] Collecting tornado>=6.1 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.535 [info]   Using cached tornado-6.3.1-cp38-abi3-win_amd64.whl (428 kB)
+
+2023-05-13 09:51:41.577 [info] Collecting traitlets>=5.4.0 (from ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.581 [info]   Using cached traitlets-5.9.0-py3-none-any.whl (117 kB)
+
+2023-05-13 09:51:41.652 [info] Collecting colorama (from click>=8.1.3->Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:41.657 [info]   Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+
+2023-05-13 09:51:41.749 [info] Collecting backcall (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.754 [info]   Using cached backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+
+2023-05-13 09:51:41.787 [info] Collecting decorator (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.791 [info]   Using cached decorator-5.1.1-py3-none-any.whl (9.1 kB)
+
+2023-05-13 09:51:41.833 [info] Collecting jedi>=0.16 (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.842 [info]   Using cached jedi-0.18.2-py2.py3-none-any.whl (1.6 MB)
+
+2023-05-13 09:51:41.892 [info] Collecting pickleshare (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.896 [info]   Using cached pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+
+2023-05-13 09:51:41.953 [info] Collecting prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30 (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:41.958 [info]   Using cached prompt_toolkit-3.0.38-py3-none-any.whl (385 kB)
+
+2023-05-13 09:51:42.005 [info] Collecting pygments>=2.4.0 (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:42.011 [info]   Using cached Pygments-2.15.1-py3-none-any.whl (1.1 MB)
+
+2023-05-13 09:51:42.047 [info] Collecting stack-data (from ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:42.052 [info]   Using cached stack_data-0.6.2-py3-none-any.whl (24 kB)
+
+2023-05-13 09:51:42.123 [info] Collecting MarkupSafe>=2.0 (from Jinja2>=3.1.2->Flask->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 3))
+
+2023-05-13 09:51:42.127 [info]   Using cached MarkupSafe-2.1.2-cp310-cp310-win_amd64.whl (16 kB)
+
+2023-05-13 09:51:42.205 [info] Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:42.220 [info]   Downloading platformdirs-3.5.1-py3-none-any.whl (15 kB)
+
+2023-05-13 09:51:42.266 [info] Collecting pywin32>=300 (from jupyter-core!=5.0.*,>=4.12->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:42.291 [info]   Using cached pywin32-306-cp310-cp310-win_amd64.whl (9.2 MB)
+
+2023-05-13 09:51:42.399 [info] Collecting contourpy>=1.0.1 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:42.403 [info]   Using cached contourpy-1.0.7-cp310-cp310-win_amd64.whl (162 kB)
+
+2023-05-13 09:51:42.431 [info] Collecting cycler>=0.10 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:42.434 [info]   Using cached cycler-0.11.0-py3-none-any.whl (6.4 kB)
+
+2023-05-13 09:51:42.513 [info] Collecting fonttools>=4.22.0 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:42.528 [info]   Downloading fonttools-4.39.4-py3-none-any.whl (1.0 MB)
+
+2023-05-13 09:51:42.605 [info]      ---------------------------------------- 1.0/1.0 MB 15.9 MB/s eta 0:00:00
+
+2023-05-13 09:51:42.666 [info] Collecting kiwisolver>=1.0.1 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:42.670 [info]   Using cached kiwisolver-1.4.4-cp310-cp310-win_amd64.whl (55 kB)
+
+2023-05-13 09:51:42.880 [info] Collecting pillow>=6.2.0 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:42.891 [info]   Using cached Pillow-9.5.0-cp310-cp310-win_amd64.whl (2.5 MB)
+
+2023-05-13 09:51:42.998 [info] Collecting pyparsing>=2.3.1 (from matplotlib!=3.6.1,>=3.1->seaborn->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 5))
+
+2023-05-13 09:51:43.004 [info]   Using cached pyparsing-3.0.9-py3-none-any.whl (98 kB)
+
+2023-05-13 09:51:43.054 [info] Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 2))
+
+2023-05-13 09:51:43.058 [info]   Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+
+2023-05-13 09:51:43.302 [info] Collecting parso<0.9.0,>=0.8.0 (from jedi>=0.16->ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:43.306 [info]   Using cached parso-0.8.3-py2.py3-none-any.whl (100 kB)
+
+2023-05-13 09:51:43.395 [info] Collecting wcwidth (from prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30->ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:43.399 [info]   Using cached wcwidth-0.2.6-py2.py3-none-any.whl (29 kB)
+
+2023-05-13 09:51:43.520 [info] Collecting executing>=1.2.0 (from stack-data->ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:43.523 [info]   Using cached executing-1.2.0-py2.py3-none-any.whl (24 kB)
+
+2023-05-13 09:51:43.558 [info] Collecting asttokens>=2.1.0 (from stack-data->ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:43.561 [info]   Using cached asttokens-2.2.1-py2.py3-none-any.whl (26 kB)
+
+2023-05-13 09:51:43.589 [info] Collecting pure-eval (from stack-data->ipython>=7.23.1->ipykernel->-r d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\requirements.txt (line 6))
+
+2023-05-13 09:51:43.595 [info]   Using cached pure_eval-0.2.2-py3-none-any.whl (11 kB)
+
+2023-05-13 09:51:43.664 [info] Building wheels for collected packages: RegressorProject
+
+2023-05-13 09:51:43.671 [info]   Building editable for RegressorProject (pyproject.toml): started
+
+2023-05-13 09:51:48.147 [info]   Building editable for RegressorProject (pyproject.toml): finished with status 'done'
+
+2023-05-13 09:51:48.153 [info]   Created wheel for RegressorProject: filename=RegressorProject-0.0.1-0.editable-py3-none-any.whl size=2539 sha256=468c2d4a6318f992372035236d13458f373fd6f050a2ddb409b24ef2487dce09
+
+2023-05-13 09:51:48.154 [info]   Stored in directory: C:\Users\DELL\AppData\Local\Temp\pip-ephem-wheel-cache-x3mx9wmn\wheels\9d\61\de\bb26cf181291734adbdb3e79d05bb7f3f1b5cd19c1c5c035b3
+
+2023-05-13 09:51:48.158 [info] Successfully built RegressorProject
+
+2023-05-13 09:51:48.753 [info] Installing collected packages: wcwidth, pywin32, pytz, pure-eval, pickleshare, executing, backcall, tzdata, traitlets, tornado, threadpoolctl, six, pyzmq, pyparsing, pygments, psutil, prompt-toolkit, platformdirs, pillow, parso, packaging, numpy, nest-asyncio, MarkupSafe, kiwisolver, joblib, itsdangerous, fonttools, decorator, debugpy, cycler, colorama, blinker, Werkzeug, scipy, python-dateutil, matplotlib-inline, jupyter-core, Jinja2, jedi, contourpy, comm, click, asttokens, stack-data, scikit-learn, pandas, matplotlib, jupyter-client, Flask, seaborn, ipython, ipykernel, RegressorProject
+
+2023-05-13 09:55:46.171 [info] Jupyter provided interpreter path override: d:\Mytech\IDE_workspace\sachinji84git\iNeuronGit\FSDSRegression-sachinji84\.venv\Scripts\python.exe
+2023-05-13 09:55:48.238 [info] > ./.venv/Scripts/activate.bat && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/printEnvVariables.py
+2023-05-13 09:55:48.238 [info] shell: commandPrompt
+2023-05-13 09:55:50.372 [info] > ./.venv/Scripts/activate.bat && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/printEnvVariables.py
+2023-05-13 09:55:50.373 [info] shell: commandPrompt
+2023-05-13 09:56:41.225 [info] Successfully installed Flask-2.3.2 Jinja2-3.1.2 MarkupSafe-2.1.2 RegressorProject-0.0.1 Werkzeug-2.3.4 asttokens-2.2.1 backcall-0.2.0 blinker-1.6.2 click-8.1.3 colorama-0.4.6 comm-0.1.3 contourpy-1.0.7 cycler-0.11.0 debugpy-1.6.7 decorator-5.1.1 executing-1.2.0 fonttools-4.39.4 ipykernel-6.23.0 ipython-8.13.2 itsdangerous-2.1.2 jedi-0.18.2 joblib-1.2.0 jupyter-client-8.2.0 jupyter-core-5.3.0 kiwisolver-1.4.4 matplotlib-3.7.1 matplotlib-inline-0.1.6 nest-asyncio-1.5.6 numpy-1.24.3 packaging-23.1 pandas-2.0.1 parso-0.8.3 pickleshare-0.7.5 pillow-9.5.0 platformdirs-3.5.1 prompt-toolkit-3.0.38 psutil-5.9.5 pure-eval-0.2.2 pygments-2.15.1 pyparsing-3.0.9 python-dateutil-2.8.2 pytz-2023.3 pywin32-306 pyzmq-25.0.2 scikit-learn-1.2.2 scipy-1.10.1 seaborn-0.12.2 six-1.16.0 stack-data-0.6.2 threadpoolctl-3.1.0 tornado-6.3.1 traitlets-5.9.0 tzdata-2023.3 wcwidth-0.2.6
+
+2023-05-13 09:56:46.098 [info] CREATE_VENV.PIP_INSTALLED_REQUIREMENTS
+
+2023-05-13 09:59:56.456 [info] Send text to terminal: & d:/Mytech/IDE_workspace/sachinji84git/iNeuronGit/FSDSRegression-sachinji84/.venv/Scripts/Activate.ps1
+2023-05-13 10:01:03.571 [info] Send text to terminal: source d:/Mytech/IDE_workspace/sachinji84git/iNeuronGit/FSDSRegression-sachinji84/.venv/Scripts/activate
